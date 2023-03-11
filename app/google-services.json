@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776170338578",
+    "project_id": "realtime-assigment",
+    "storage_bucket": "realtime-assigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776170338578:android:c6898027b608126cbbdbcb",
+        "android_client_info": {
+          "package_name": "com.example.realtime_assigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776170338578-g9s895ua8qrlaurq2ni340om0ug88fmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABby5q1h8PD6-yJPpsFM21X-2moomBvww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776170338578-g9s895ua8qrlaurq2ni340om0ug88fmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
